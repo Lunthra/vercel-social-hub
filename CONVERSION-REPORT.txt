@@ -1,0 +1,33 @@
+FAVORITES IMAGE CONVERSION REPORT
+
+Images prepared: 24
+Original image data: 6,495,070 bytes (6.19 MiB)
+WebP image data: 3,915,870 bytes (3.73 MiB)
+Size reduction: 39.7%
+Conversion: WebP quality 90, maximum dimension 1200 pixels, aspect ratio preserved, no cropping.
+Originals were not modified. Images stay at native size when already within the 1200-pixel limit.
+
+Favorite Movies: Arrival.webp -> 01.webp | Arrival (2016) | 474x711 px | 27,056 -> 38,490 bytes
+Favorite Movies: Lawernce of Arbia.jpg -> 02.webp | Lawrence of Arabia (1962) | 782x1200 px | 402,660 -> 115,524 bytes
+Favorite Movies: Seven Samurai.webp -> 03.webp | Seven Samurai | 474x711 px | 37,230 -> 48,134 bytes
+Favorite Movies: Apu Sansar.jpg -> 04.webp | Apur Sansar (The World of Apu) | 460x690 px | 26,243 -> 38,336 bytes
+TV Shows: The Leftovers.jpg -> 01.webp | The Leftovers | 900x1200 px | 320,316 -> 480,282 bytes
+TV Shows: Dark.webp -> 02.webp | Dark | 800x1200 px | 1,251,642 -> 347,122 bytes
+TV Shows: Normal People.webp -> 03.webp | Normal People | 799x1200 px | 423,502 -> 161,068 bytes
+TV Shows: The Sopranos.webp -> 04.webp | The Sopranos | 800x1200 px | 220,622 -> 145,944 bytes
+Favorite Anime: Frieren Beyond it's Journey end.webp -> 01.webp | Frieren: Beyond Journey's End | 800x1200 px | 238,232 -> 160,366 bytes
+Favorite Anime: Hunter x Hunter.jpeg -> 02.webp | Hunter x Hunter | 474x719 px | 78,732 -> 115,322 bytes
+Favorite Anime: Fullmetal Alchemist Brotherhood.webp -> 03.webp | Fullmetal Alchemist: Brotherhood | 800x1200 px | 341,222 -> 133,128 bytes
+Favorite Anime: one Piece.jpeg -> 04.webp | One Piece | 600x849 px | 157,190 -> 174,002 bytes
+Favorite Anime Movies: I want to eat your pancreas.webp -> 01.webp | I Want to Eat Your Pancreas | 474x711 px | 56,072 -> 73,710 bytes
+Favorite Anime Movies: Grave of fire flies.webp -> 02.webp | Grave of the Fireflies | 800x1200 px | 180,782 -> 119,546 bytes
+Favorite Anime Movies: A silent voice.webp -> 03.webp | A Silent Voice | 800x1200 px | 1,202,730 -> 279,554 bytes
+Favorite Anime Movies: Your Name.webp -> 04.webp | Your Name | 474x670 px | 24,542 -> 37,110 bytes
+Favorite Novels: The Brothers of Karamazov.jpg -> 01.webp | The Brothers Karamazov | 780x1200 px | 326,765 -> 371,852 bytes
+Favorite Novels: Game of Thrones.jpg -> 02.webp | A Song of Ice and Fire | 790x1200 px | 411,227 -> 217,156 bytes
+Favorite Novels: Lord of The Rings.jpg -> 03.webp | The Lord of the Rings | 800x1200 px | 279,074 -> 331,798 bytes
+Favorite Novels: Magician Raymond E. Feist.jpg -> 04.webp | Magician | 845x1200 px | 92,037 -> 61,376 bytes
+Favorite Games: Red dead Redemption 2.webp -> 01.webp | Red Dead Redemption 2 | 683x1024 px | 159,432 -> 162,252 bytes
+Favorite Games: Elden Ring.jpg -> 02.webp | Elden Ring | 700x1050 px | 90,477 -> 116,994 bytes
+Favorite Games: Black Myth Wukong.webp -> 03.webp | Black Myth: Wukong | 600x900 px | 58,444 -> 78,966 bytes
+Favorite Games: The Last of Us Part II.jpg -> 04.webp | The Last of Us Part II | 667x1000 px | 88,841 -> 107,838 bytes
